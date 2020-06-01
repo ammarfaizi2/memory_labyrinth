@@ -1,0 +1,3 @@
+*.o
+/.phpintel/
+/memory_labyrinth
